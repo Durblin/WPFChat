@@ -1,0 +1,48 @@
+[33mcommit ce382ff77d66abce26c70893783af2a5b4fb07ee[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Durblin <vic.aczn@gmail.com>
+Date:   Mon May 29 18:26:20 2017 +0300
+
+    login design
+
+[33mcommit 0700a405faf2320f561846b79118520539424989[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Durblin <vic.aczn@gamil.com>
+Date:   Wed May 24 14:22:58 2017 +0300
+
+    modif
+
+[33mcommit c65ea7d3e3d41e5fcad0c94dc94dd2d8e7f255d7[m
+Author: Durblin <vic.aczn@gamil.com>
+Date:   Wed May 24 14:19:10 2017 +0300
+
+    corectie
+
+[33mcommit 3f3525398e0ea6506108d6e1a75747f15f8d5a81[m
+Merge: f55de2d b62b940
+Author: Durblin <vic.aczn@gamil.com>
+Date:   Wed May 24 14:12:24 2017 +0300
+
+    Merge branch 'master' of https://github.com/Durblin/WPFChat
+
+[33mcommit f55de2dc18d2f62653ac0f1485015abdbf60a359[m
+Author: Durblin <vic.aczn@gamil.com>
+Date:   Wed May 24 14:10:53 2017 +0300
+
+    modification
+
+[33mcommit b62b940309b297e0343925332194c200f497c7df[m
+Author: ionut.apostol <ionut.apostol@softvision.ro>
+Date:   Wed May 24 14:08:07 2017 +0300
+
+    test modify gitignore
+
+[33mcommit ce430072aca309dfb6b9aa2a805081ac759258c7[m
+Author: Durblin <vic.aczn@gamil.com>
+Date:   Wed May 24 14:04:56 2017 +0300
+
+    created solution and WPF project
+
+[33mcommit 9d4bcee09bf9a54b1bca85ce8b470464280b90da[m
+Author: Durblin <vic.aczn@gamil.com>
+Date:   Wed May 24 13:52:36 2017 +0300
+
+    first commit
